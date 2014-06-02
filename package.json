@@ -1,0 +1,37 @@
+{
+  "name": "leetcoin",
+  "description": "leetcoin api wrapper for JavaScript/NodeJS",
+  "version": "0.0.1",
+  "author": {
+    "name": "Aaron Caswell",
+    "email": "aaron@captureplay.com",
+    "url": "https://github.com/porkchop"
+  },
+  "dependencies": {
+    "debug": "~0.7.4",
+    "request": "2.34.0",
+    "form-urlencoded": "0.0.6"
+  },
+  "devDependencies": {
+    "should": "3.3.1",
+    "mocha": "1.18.2"
+  },
+  "keywords": [
+    "bitcoin",
+    "cryptocurrency",
+    "wager",
+    "skill games",
+    "gaming",
+    "wagering",
+    "bet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/porkchop/leetcoin-js"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
+}
